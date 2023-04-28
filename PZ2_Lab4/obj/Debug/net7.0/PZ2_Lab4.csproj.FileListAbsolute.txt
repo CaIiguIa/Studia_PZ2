@@ -1,0 +1,15 @@
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\bin\Debug\net7.0\PZ2_Lab4.exe
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\bin\Debug\net7.0\PZ2_Lab4.deps.json
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\bin\Debug\net7.0\PZ2_Lab4.runtimeconfig.json
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\bin\Debug\net7.0\PZ2_Lab4.dll
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\bin\Debug\net7.0\PZ2_Lab4.pdb
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.csproj.AssemblyReference.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.AssemblyInfoInputs.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.AssemblyInfo.cs
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.dll
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\refint\PZ2_Lab4.dll
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.pdb
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\PZ2_Lab4.genruntimeconfig.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\PZ2_Lab4\obj\Debug\net7.0\ref\PZ2_Lab4.dll

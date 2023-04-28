@@ -1,0 +1,15 @@
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\bin\Debug\net7.0\Lab6Klient.exe
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\bin\Debug\net7.0\Lab6Klient.deps.json
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\bin\Debug\net7.0\Lab6Klient.runtimeconfig.json
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\bin\Debug\net7.0\Lab6Klient.dll
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\bin\Debug\net7.0\Lab6Klient.pdb
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.csproj.AssemblyReference.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.AssemblyInfoInputs.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.AssemblyInfo.cs
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.csproj.CoreCompileInputs.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.dll
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\refint\Lab6Klient.dll
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.pdb
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\Lab6Klient.genruntimeconfig.cache
+C:\Users\sdjur\Documents\Programowanie\Rider\C#\Projekt1\PierwszyProjekt\Lab6Klient\obj\Debug\net7.0\ref\Lab6Klient.dll
